@@ -1,4 +1,4 @@
-package com.blog.common.model.dto.postfavour;
+package com.blog.common.model.dto.postFavour;
 
 import com.blog.common.common.PageRequest;
 import com.blog.common.model.dto.post.PostQueryRequest;

@@ -1,6 +1,7 @@
-package com.blog.common.model.vo;
+package com.blog.common.model.vo.post;
 
 import com.blog.common.model.entity.Post;
+import com.blog.common.model.vo.user.UserVO;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import lombok.Data;

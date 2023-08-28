@@ -1,17 +1,17 @@
-package com.blog.common.model.dto.postfavour;
+package com.blog.common.model.dto.postThumb;
 
 import lombok.Data;
 
 import java.io.Serializable;
 
 /**
- * 帖子收藏 / 取消收藏请求
+ * 帖子点赞请求
  *
  * @author WMING
  * 2023/08/22
  */
 @Data
-public class PostFavourAddRequest implements Serializable {
+public class PostThumbAddRequest implements Serializable {
 
     /**
      * 帖子 id

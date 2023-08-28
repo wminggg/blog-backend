@@ -15,7 +15,7 @@ import com.blog.common.model.dto.post.PostQueryRequest;
 import com.blog.common.model.dto.post.PostUpdateRequest;
 import com.blog.common.model.entity.Post;
 import com.blog.common.model.entity.User;
-import com.blog.common.model.vo.PostVO;
+import com.blog.common.model.vo.post.PostVO;
 import com.blog.common.service.PostService;
 import com.blog.common.service.UserService;
 import com.google.gson.Gson;

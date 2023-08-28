@@ -1,4 +1,4 @@
-package com.blog.common.model.vo;
+package com.blog.common.model.vo.user;
 
 import lombok.Data;
 

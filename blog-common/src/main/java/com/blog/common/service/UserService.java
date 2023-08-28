@@ -4,8 +4,8 @@ import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.blog.common.model.dto.user.UserQueryRequest;
 import com.blog.common.model.entity.User;
-import com.blog.common.model.vo.LoginUserVO;
-import com.blog.common.model.vo.UserVO;
+import com.blog.common.model.vo.user.LoginUserVO;
+import com.blog.common.model.vo.user.UserVO;
 import me.chanjar.weixin.common.bean.WxOAuth2UserInfo;
 
 import javax.servlet.http.HttpServletRequest;

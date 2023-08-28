@@ -4,7 +4,7 @@ import com.blog.common.common.BaseResponse;
 import com.blog.common.common.ErrorCode;
 import com.blog.common.common.ResultUtils;
 import com.blog.common.exception.BusinessException;
-import com.blog.common.model.dto.postthumb.PostThumbAddRequest;
+import com.blog.common.model.dto.postThumb.PostThumbAddRequest;
 import com.blog.common.model.entity.User;
 import com.blog.common.service.PostThumbService;
 import com.blog.common.service.UserService;

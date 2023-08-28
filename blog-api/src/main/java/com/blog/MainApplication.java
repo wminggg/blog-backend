@@ -14,6 +14,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
  * @author WMING
  * 2023/08/22
  */
+//http://localhost:8101/api/doc.html
 @Slf4j
 @SpringBootApplication
 @MapperScan("com.*.mapper")
