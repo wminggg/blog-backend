@@ -1,5 +1,7 @@
 package com.blog.common.model.dto.question;
 
+import lombok.Data;
+
 /**
  * 判断配置
  *
@@ -7,7 +9,7 @@ package com.blog.common.model.dto.question;
  * 2023/08/27
  */
 
-
+@Data
 public class JudgeConfig {
 
 
